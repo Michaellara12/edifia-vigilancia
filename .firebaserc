@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "edifia",
+    "dev": "edifia-dev"
+  },
+  "targets": {},
+  "etags": {}
+}
